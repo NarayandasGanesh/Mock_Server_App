@@ -1,0 +1,124 @@
+{
+    "skin+hair": [
+        {
+            "id": 1,
+            "header": "BEST SELLER",
+            "title": "R + F Lash Boost",
+            "productimage": "https://www.rodanandfields.com/en-us/medias/STSHD04-458x458-mobile-1.png?context=bWFzdGVyfGltYWdlc3wxNDgxMXxpbWFnZS9wbmd8aW1hZ2VzL2g0NS9oYTYvMTU4ODA4MTMyMTU3NzQucG5nfDZhYWVjMThlNjY5Yzc5NzFmMjRmZTI2ZTAxOTU3MmVlYTI3ODI5ZjgxYmI4MDc5ZjBjYzdhMjZjZjM5MzFkZTY",
+            "description": "#1 Premium Lash Serum in the U.S. in 2021!* Our famous lash conditioning serum is applied nightly to promote the appearance of longer, stronger and darker-looking lashes (or brows!)",
+            "retailprice": "155",
+            "perksprice": "139",
+            "offer": "4 interest-free payments of $38.75 with Klarna.",
+            "guaranteed": "60 Day Money Back Guarantee",
+            "details": "What it is: A nightly eyelash conditioning serum infused with technology to enhance the appearance of length, volume + definition of eyelashes and eyebrows. Why you need it: Lash durability can be enhanced with proper moisture and protection against breakage. Condition your eyebrows and eyelashes to achieve youthful, fuller-looking definition. *Source Euromonitor International Limited; Beauty and Personal Care 2022 Edition, retail value RSP terms; all channels; Lash Serum including Lash Serum products sold as part of Sets and Kits."
+          },
+          {
+            "id": 2,
+            "header": "BEST SELLER",
+            "title": "REDEFINE + Lash Boost Special",
+            "productimage": "https://www.rodanandfields.com/en-us/medias/ENFM030-Thumbnail-458x458.jpg?context=bWFzdGVyfGltYWdlc3wyNTQ2MHxpbWFnZS9qcGVnfGltYWdlcy9oZmQvaGQ2LzE0ODgyMTk1ODk4Mzk4LmpwZ3wyYThhMjQ0NTc4YjI1ZmQ1ODY3MDE5NGMyYjk3MjA2MTRmNDQ2MzdmOGVhYzMxYTFmMDk1YmIyY2Q5NDhjMzIw",
+            "description": "Ditch wrinkles + mascara. Our best selling anti-aging skincare routine pairs with our famous conditioning eyelash serum for younger-looking skin and eyes.",
+            "retailprice": "343",
+            "perksprice": "307",
+            "offer": "4 interest-free payments of $85.75 with Klarna.",
+            "guaranteed": "60 Day Money Back Guarantee",
+            "details": "What it is: Save 20% when you bundle the REDEFINE Regimen with R+F Lash Boost! Visibly lift, sculpt + firm skin while promoting longer, fuller, darker-looking lashes. Why you need it: Fine lines, deep wrinkles and sparse lashes + brows are all key signs of aging. Attain more elastic, youthful-looking skin plus conditioned and moisturized lashes + brows."
+          },
+          {
+            "id": 3,
+            "header": "",
+            "title": "REVERSE + Lash Boost Special",
+            "productimage": "https://www.rodanandfields.com/en-us/medias/ENHLSH01-458x458.jpg?context=bWFzdGVyfGltYWdlc3w0MDkxfGltYWdlL2pwZWd8aW1hZ2VzL2gzNS9oODgvMTM5Nzc1NDQ2ODc2NDYuanBnfDlmYTEwMTFkMjFiNzMwYjlhNjU0NTNiYjU5ZDBmMGY3ZWIzNmNiZmYwMTJhMGYzMTFkMzA1ODhkOGI1MjdlMmE",
+            "description": "Leave dull skin + mascara in the past. Diminish visible discoloration while promoting fuller, longer, darker-looking lashes with this dynamic duo.",
+            "retailprice": "318",
+            "perksprice": "286",
+            "offer": "4 interest-free payments of $79.50 with Klarna. ",
+            "guaranteed": "60 Day Money Back Guarantee",
+            "details": "What it is: Save 20% when you bundle the REVERSE Regimen with R+F Lash Boost! Combat dark spots + dull skin while conditioning your lashes for a brighter, more youthful look. Why you need it: Uneven tone + texture rob skin of its natural, healthy-looking glow. This brightening and lash-boosting bundle prevents future discoloration from forming, pairing perfectly with fuller, longer, darker-looking lashes + brows. Instantly brighten, prevent different types of discoloration and visibly evening out skin tone."
+          },
+          {
+            "id": 4,
+            "header": "NEW ARRIVAL",
+            "title": "UNBLEMISH + Lash Boost Special",
+            "productimage": "https://www.rodanandfields.com/en-us/medias/AAEY015-458x458.jpg?context=bWFzdGVyfGltYWdlc3wxMDQ2OHxpbWFnZS9qcGVnfGltYWdlcy9oMDYvaDljLzEzOTc3NTQ0NDI1NTAyLmpwZ3xiNzQ3NjJkOWU1Y2QxOWM5ZDQ4ZGQzZDA1ZjdkNzBhZmRhMjdkYzE5MTU0MWZiZjY5MDc3NzEyMjBkM2E1YThj",
+            "description": "Less pimples, longer lashes. Get noticeably clearer, brighter, younger-looking skin plus the appearance of lush, longer, fuller-looking lashes.",
+            "retailprice": "312",
+            "perksprice": "280",
+            "offer": "4 interest-free payments of $78.00 with Klarna.",
+            "guaranteed": "60 Day Money Back Guarantee",
+            "details": "What it is: Save 20% when you bundle the UNBLEMISH Regimen with R+F Lash Boost! Clear adult acne + visibly improve signs of aging while enhancing the appearance of longer, darker, fuller lashes. Why you need it: Clogged pores happen when there is a build-up of excess oil, debris and dead skin cells. This age-fighting your clearest-looking skin and the appearance of lusher lashes + brows."
+          },
+          {
+            "id": 5,
+            "header": "NEW ARRIVAL",
+            "title": "RECHARGE + Lash Boost Special",
+            "productimage": "https://www.rodanandfields.com/en-us/medias/ENHEFG1-570x570-Desktop.png?context=bWFzdGVyfGltYWdlc3wyMjI3N3xpbWFnZS9wbmd8aW1hZ2VzL2g2NS9oYjUvMTQ1MzIxNjY4MTE2NzgucG5nfGNhNTQzZTUyNmU3NTMxZjAxZTc5NThjMmQ3MzU0YzVkNTY1OTExMThjNWEyMDBiYTIwMTFhNWM1Yzk4YTk3ODI",
+            "description": "Luminous skin + longer-looking lashes. Get a glowing, luminous look plus the appearance of lush, fuller-looking lashes with this set.",
+            "retailprice": "256",
+            "perksprice": "230",
+            "offer": "4 interest-free payments of $64.00 with Klarna.",
+            "guaranteed": "60 Day Money Back Guarantee",
+            "details": "What it is: Save 20% when you bundle the RECHARGE Regimen with R+F Lash Boost! Fight dullness, dryness and more skin issues that pop up in your 20s while conditioning your lashes to reveal a more energized look. Why you need it: Everyday stressors like UVA/UVB rays, lack of sleep, stress and diet affect skin’s radiance. This skin and lash-boosting bundle supercharges skin’s defenses and promotes fuller, longer, darker-looking lashes + brows."
+          },
+          {
+            "id": 6,
+            "header": "NEW ARRIVAL",
+            "title": "REDEFINE + Lash Boost Special",
+            "productimage": "https://www.rodanandfields.com/en-us/medias/AASR160-208x208-MOBILE.jpg?context=bWFzdGVyfHJvb3R8MjYwNzJ8aW1hZ2UvanBlZ3xoOGMvaGU2Lzg4MjE4Njg1NjA0MTQuanBnfDk1NGI0ZGEyMDk4YTNhZmMwZmMxOWU0YjAwMjQ0ZTM3YzRmZTRjM2ZjYTcyNjg4MzFmODYzNzBhNmI4NzliMDk",
+            "description": "Luminous skin + longer-looking lashes. Get a glowing, luminous look plus the appearance of lush, fuller-looking lashes with this set.",
+            "retailprice": "256",
+            "perksprice": "230",
+            "offer": "4 interest-free payments of $64.00 with Klarna.",
+            "guaranteed": "60 Day Money Back Guarantee",
+            "details": "What it is: Save 20% when you bundle the RECHARGE Regimen with R+F Lash Boost! Fight dullness, dryness and more skin issues that pop up in your 20s while conditioning your lashes to reveal a more energized look. Why you need it: Everyday stressors like UVA/UVB rays, lack of sleep, stress and diet affect skin’s radiance. This skin and lash-boosting bundle supercharges skin’s defenses and promotes fuller, longer, darker-looking lashes + brows."
+          },
+          {
+            "id": 7,
+            "header": "NEW ARRIVAL",
+            "title": "REDEFINE + Lash Boost Special",
+            "productimage": "https://www.rodanandfields.com/en-us/medias/ENHEY15-thumb.jpg?context=bWFzdGVyfGltYWdlc3wxNTUwNnxpbWFnZS9qcGVnfGltYWdlcy9oYjMvaGU1LzEzNTMzMTczNzEwODc4LmpwZ3wyZTE2NTNkODFiNTlhNDFmNGU1YzA0NDViMjhkYzBiMzRmYmM5NzU0ZDQxYTAwN2Q1NDMxN2U1ZWNjOTNlNjM1",
+            "description": "Luminous skin + longer-looking lashes. Get a glowing, luminous look plus the appearance of lush, fuller-looking lashes with this set.",
+            "retailprice": "256",
+            "perksprice": "230",
+            "offer": "4 interest-free payments of $64.00 with Klarna.",
+            "guaranteed": "60 Day Money Back Guarantee",
+            "details": "What it is: Save 20% when you bundle the RECHARGE Regimen with R+F Lash Boost! Fight dullness, dryness and more skin issues that pop up in your 20s while conditioning your lashes to reveal a more energized look. Why you need it: Everyday stressors like UVA/UVB rays, lack of sleep, stress and diet affect skin’s radiance. This skin and lash-boosting bundle supercharges skin’s defenses and promotes fuller, longer, darker-looking lashes + brows."
+          },
+          {
+            "id": 8,
+            "header": "NEW ARRIVAL",
+            "title": "REDEFINE + Lash Boost Special",
+            "productimage": "https://www.rodanandfields.com/en-us/medias/ENFG010-208X208-MOBILE.jpg?context=bWFzdGVyfGltYWdlc3wzNDU0fGltYWdlL2pwZWd8aW1hZ2VzL2gxZC9oMmMvMTQ5NjkwODY2NzI5MjYuanBnfDAxNGE2Nzc0OTlhYThjZjhhODQ4ZWE0MDExYjRmNThiM2FkZTI3MjA3ZTdmNWIxODY3Y2M3OGYwZWI5NjBlOWU",
+            "description": "Luminous skin + longer-looking lashes. Get a glowing, luminous look plus the appearance of lush, fuller-looking lashes with this set.",
+            "retailprice": "256",
+            "perksprice": "230",
+            "offer": "4 interest-free payments of $64.00 with Klarna.",
+            "guaranteed": "60 Day Money Back Guarantee",
+            "details": "What it is: Save 20% when you bundle the RECHARGE Regimen with R+F Lash Boost! Fight dullness, dryness and more skin issues that pop up in your 20s while conditioning your lashes to reveal a more energized look. Why you need it: Everyday stressors like UVA/UVB rays, lack of sleep, stress and diet affect skin’s radiance. This skin and lash-boosting bundle supercharges skin’s defenses and promotes fuller, longer, darker-looking lashes + brows."
+          },
+          {
+            "id": 9,
+            "header": "NEW ARRIVAL",
+            "title": "REDEFINE + Lash Boost Special",
+            "productimage": "https://www.rodanandfields.com/en-us/medias/ENBR001-458x458.jpg?context=bWFzdGVyfGltYWdlc3w3Nzc0fGltYWdlL2pwZWd8aW1hZ2VzL2g3MS9oMmQvMTM5Nzc1NDMzNzY5MjYuanBnfDMxMTEyY2E3ZDMzNTVjZDA0OGRmODE4NTk4NmNkZjcyMTQwNGM3NDMxNTRkNGEyNTI5MDI2ZTM4OWRkZmEzMzc",
+            "description": "Luminous skin + longer-looking lashes. Get a glowing, luminous look plus the appearance of lush, fuller-looking lashes with this set.",
+            "retailprice": "256",
+            "perksprice": "230",
+            "offer": "4 interest-free payments of $64.00 with Klarna.",
+            "guaranteed": "60 Day Money Back Guarantee",
+            "details": "What it is: Save 20% when you bundle the RECHARGE Regimen with R+F Lash Boost! Fight dullness, dryness and more skin issues that pop up in your 20s while conditioning your lashes to reveal a more energized look. Why you need it: Everyday stressors like UVA/UVB rays, lack of sleep, stress and diet affect skin’s radiance. This skin and lash-boosting bundle supercharges skin’s defenses and promotes fuller, longer, darker-looking lashes + brows."
+          },
+          {
+            "id": 10,
+            "header": "NEW ARRIVAL",
+            "title": "REDEFINE + Lash Boost Special",
+            "productimage": "https://www.rodanandfields.com/en-us/medias/ENPS125-570x570-Desktop.png?context=bWFzdGVyfGltYWdlc3wxODU1NXxpbWFnZS9wbmd8aW1hZ2VzL2hlZC9oNTQvMTQ1MzIxNjc4Mjc0ODYucG5nfGM4NDE5OGU1OTUwOWZjYmM2ZjIyYmMyMzEyOTk5MmY1M2Y4ZDA2MGQ5YjBjNzRmMDQ1YmM2ZThkOGU5ZDllMzg",
+            "description": "Luminous skin + longer-looking lashes. Get a glowing, luminous look plus the appearance of lush, fuller-looking lashes with this set.",
+            "retailprice": "256",
+            "perksprice": "230",
+            "offer": "4 interest-free payments of $64.00 with Klarna.",
+            "guaranteed": "60 Day Money Back Guarantee",
+            "details": "What it is: Save 20% when you bundle the RECHARGE Regimen with R+F Lash Boost! Fight dullness, dryness and more skin issues that pop up in your 20s while conditioning your lashes to reveal a more energized look. Why you need it: Everyday stressors like UVA/UVB rays, lack of sleep, stress and diet affect skin’s radiance. This skin and lash-boosting bundle supercharges skin’s defenses and promotes fuller, longer, darker-looking lashes + brows."
+          }
+    ]
+  }

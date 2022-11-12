@@ -1,0 +1,24 @@
+{
+  "name": "mock_server_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NarayandasGanesh/Mock_Server_App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NarayandasGanesh/Mock_Server_App/issues"
+  },
+  "homepage": "https://github.com/NarayandasGanesh/Mock_Server_App#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
